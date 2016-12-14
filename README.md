@@ -14,7 +14,7 @@ Initialize Black Triangle
         > from impositions import utils
         > utils.output_composition(<pk>)
 
-*[Black Triangle Wha??](http://rampantgames.com/blog/2004/10/black-triangle.html)*
+*[Black Triangle Wha??](https://web.archive.org/web/20050306071700/http://www.rampantgames.com/blog/2004/10/black-triangle.html)*
 
 
 
